@@ -1,0 +1,3 @@
+[console_scripts]
+boston_crimes = boston_crimes.main:print_test
+
